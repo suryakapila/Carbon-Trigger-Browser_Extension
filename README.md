@@ -28,5 +28,11 @@ Once the API key and region is input into the extension interface, the colored d
 
 # Carbon-Trigger - A Browser Extension
 
+![Browser Extension](https://github.com/suryakapila/Carbon-Trigger-Browser_Extension/blob/master/dist/images/browser_ext.png)   ![Browser Extension](https://github.com/suryakapila/Carbon-Trigger-Browser_Extension/blob/master/dist/images/browser_ext_exp.png)
+
+
+
+
+
 # Credits
 [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
